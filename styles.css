@@ -68,7 +68,6 @@ img {
   margin-top: 20px;
   font-size: 28px;
   font-family: "Fraunces", sans-serif;
-  font-weight: 144;
   color: var(--very-dark-blue);
 }
 
@@ -77,7 +76,7 @@ img {
   font-size: 14px;
   font-family: "Montserrat", sans-serif;
   color: var(--dark-grayish0-blue);
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   line-height: 1.4;
   margin-bottom: 15px;
 }
